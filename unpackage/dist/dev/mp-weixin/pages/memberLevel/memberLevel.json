@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "会员等级",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTextStyle": "black",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "rule": "/pages/memberLevel/components/rule/rule"
+  }
+}
